@@ -61,9 +61,6 @@ Follow these steps to set up the project locally:
 
 4. **Start the application:**
    ```bash
-   # For backend
-   cd backend
-   npm run dev
 
    # For frontend
    cd ../frontend
@@ -104,19 +101,12 @@ We welcome contributions to enhance NeuraHealth! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname/)
+- **Email**: yashpalsinghpawara@gmail.com
 
 ---
 
